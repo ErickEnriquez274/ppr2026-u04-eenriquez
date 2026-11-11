@@ -1,3 +1,4 @@
+#Erick Enriquez Ramirez LITIID43
 from pathlib import Path
 dispositivos=[
     {
